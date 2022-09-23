@@ -1,0 +1,31 @@
+{
+	"storyName": "Tired's Covers",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week8",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"",
+			"yuki",
+			[
+				135,
+				22,
+				124
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "Week 9"
+}

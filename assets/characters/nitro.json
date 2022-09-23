@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nitro_IDLE"
+		},
+		{
+			"offsets": [
+				-20,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nitro_down"
+		},
+		{
+			"offsets": [
+				54,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nitro_up"
+		},
+		{
+			"offsets": [
+				-5,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "nitro_hey"
+		},
+		{
+			"offsets": [
+				68,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enough",
+			"indices": [],
+			"name": "nitro_enough"
+		},
+		{
+			"offsets": [
+				-69,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ew",
+			"indices": [],
+			"name": "nitro_EW"
+		},
+		{
+			"offsets": [
+				135,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nitro_right"
+		},
+		{
+			"offsets": [
+				-22,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nitro_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NITRO",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "nitro",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		71,
+		232
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

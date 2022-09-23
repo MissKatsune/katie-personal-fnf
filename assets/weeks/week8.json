@@ -1,0 +1,31 @@
+{
+	"storyName": "Caitlyn & Yuki",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Genuine Sucker",
+			"yuki",
+			[
+				135,
+				22,
+				124
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "Week 8"
+}
